@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/PetersenAndreas/CA3-Gruppe3.svg?branch=master)](https://travis-ci.com/PetersenAndreas/CA3-Gruppe3)
+[![Build Status](https://travis-ci.com/PetersenAndreas/CA3_Back_OwnDeploy.svg?branch=master)](https://travis-ci.com/PetersenAndreas/CA3_Back_OwnDeploy)
 
 # Group 3 - CA3
 *This project is the startcode written by Group 3 for the CA3-assignment*
